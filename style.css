@@ -31,3 +31,9 @@ input{
 .fa.active{
   color: dodgerblue;
 }
+
+h1 {
+  color: bisque;
+  text-align: center;
+  font-size: 50px;
+}
